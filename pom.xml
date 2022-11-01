@@ -11,6 +11,7 @@
     <modules>
         <module>service-event-demo</module>
         <module>state-demo</module>
+        <module>application-service-demo</module>
     </modules>
 
     <properties>
